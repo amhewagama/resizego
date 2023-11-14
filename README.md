@@ -1,5 +1,5 @@
 # resizego
-REsize JPG high quality and law space
+Resize JPG high quality and low space
 
 #install Go
 
@@ -21,3 +21,4 @@ go run resize_images.go travel
 travel-lg, travel-sm directories will be created.
 Resized images will be stored seperately. 1000 images may resize without trash.
 </code>
+
