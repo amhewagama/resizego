@@ -21,7 +21,7 @@
     <li>Run the executable with the source directory as a command-line argument:</li>
 </ol>
 
-<pre>./ResizeJPG source_directory</pre>
+<pre>./resize_images source_directory</pre>
 
 <p>Resized images will be saved in separate output directories for high quality and low space versions.</p>
 
